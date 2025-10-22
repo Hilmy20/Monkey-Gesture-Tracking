@@ -26,10 +26,3 @@ Controls:
 
 ---
 
-
-## Customization
-
-You can add more gestures by:
-1. Creating a new image file
-2. Adding it to the `IMAGE_PATHS` dictionary
-3. Implementing logic in `classify_gesture()` to detect that gesture
